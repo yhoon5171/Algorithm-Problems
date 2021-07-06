@@ -1,3 +1,6 @@
+//https://www.acmicpc.net/problem/4344
+//평가: 1
+
 #include <iostream>
 #include <vector>
 using namespace std;
