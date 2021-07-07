@@ -1,3 +1,6 @@
+//https://leetcode.com/problems/lemonade-change/
+// 평가: 1
+
 class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
