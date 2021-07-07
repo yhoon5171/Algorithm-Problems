@@ -1,3 +1,6 @@
+//https://leetcode.com/problems/longest-common-prefix/
+//평가: 1
+
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
