@@ -1,3 +1,6 @@
+//https://www.acmicpc.net/problem/1316
+//평가: 1
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
