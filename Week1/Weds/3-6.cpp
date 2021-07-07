@@ -1,3 +1,6 @@
+//https://www.codeground.org/practice 1번 문제
+//평가: 1
+
 #include <iostream>
 
 using namespace std;
