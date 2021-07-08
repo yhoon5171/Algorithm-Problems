@@ -1,3 +1,6 @@
+//https://leetcode.com/problems/power-of-four/
+//평가: 1
+
 class Solution {
 public:
     bool isPowerOfFour(int n) {
