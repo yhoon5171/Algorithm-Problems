@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/majority-element/
+
 bool compare(pair<int, int> a, pair<int, int> b){
     return a.second < b.second;
 }
