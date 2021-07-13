@@ -1,3 +1,5 @@
+//https://www.acmicpc.net/problem/1427
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
